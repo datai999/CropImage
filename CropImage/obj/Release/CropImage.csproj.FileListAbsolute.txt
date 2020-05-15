@@ -1,0 +1,8 @@
+D:\Dev\C#\CropImage\bin\Release\CropImage.exe.config
+D:\Dev\C#\CropImage\bin\Release\CropImage.exe
+D:\Dev\C#\CropImage\bin\Release\CropImage.pdb
+D:\Dev\C#\CropImage\obj\Release\CropImage.FormCropImage.resources
+D:\Dev\C#\CropImage\obj\Release\CropImage.Properties.Resources.resources
+D:\Dev\C#\CropImage\obj\Release\CropImage.csproj.GenerateResource.cache
+D:\Dev\C#\CropImage\obj\Release\CropImage.exe
+D:\Dev\C#\CropImage\obj\Release\CropImage.pdb
